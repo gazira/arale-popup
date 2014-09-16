@@ -1,0 +1,9 @@
+{
+    "name": "arale-popup",
+    "version": "1.2.0",
+    "main": "popup.js",
+    "dependencies": {
+        "component/jquery": "1.0.0",
+        "gazira/overlay": "master"
+    }
+}
