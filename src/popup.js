@@ -1,5 +1,5 @@
 var $ = require('jquery');
-var Overlay = require('overlay');
+var Overlay = require('arale-overlay');
 
 
 // Popup 是可触发 Overlay 型 UI 组件
